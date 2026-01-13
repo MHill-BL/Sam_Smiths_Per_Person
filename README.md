@@ -44,19 +44,5 @@ Have you ever wondered which place has the most Sam Smiths per person in Yorkshi
 
 
 
-\## How to Recreate
-
-
-
-1\. Install SQLite
-
-2\. Clone this repository
-
-3\. Run the setup:
-
-```bash
-
-sqlite3 sam\_smiths.db < sql/setup.sql
-
 
 
