@@ -24,9 +24,9 @@ Have you ever wondered which place has the most Sam Smiths per person in Yorkshi
 
 
 
-\- \*\*Pubs data\*\*: \[Brewery History Society Wiki](http://breweryhistory.com/wiki/)
+\- Pubs data: \[Brewery History Society Wiki](http://breweryhistory.com/wiki/)
 
-\- \*\*Population data\*\*: \[City Population](https://www.citypopulation.de/en/uk/yorkshireandthehumber/) 
+\- Population data: \[City Population](https://www.citypopulation.de/en/uk/yorkshireandthehumber/) 
 
 
 
